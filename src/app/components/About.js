@@ -94,7 +94,7 @@ function About() {
           fontWeight={"700"}
           color={"white"}
         >
-          🎉🎉Good Bye! Don't scroll its End🎉🎉
+          🎉🎉Good Bye! Don&apos;t scroll its End🎉🎉
         </Text>
       </Box>
     </Flex>
